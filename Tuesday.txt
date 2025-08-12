@@ -1,1 +1,3 @@
 Today is Tuesday !
+Good Evening !
+Good Bye !
